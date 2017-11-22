@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppProjeto</string>
+    <string name="busca_cardapio">nome do item</string>
+    <string name="botao_busca">Buscar</string>
+</resources>
